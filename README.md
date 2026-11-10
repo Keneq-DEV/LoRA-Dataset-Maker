@@ -202,7 +202,7 @@ lora-dataset-maker/
 ## Troubleshooting
 
 ### "Node.js is not installed"
-Download Node.js 18+ from [nodejs.org](https://nodejs.org) and install it. Then run `iniciar.bat` again.
+Download Node.js 18+ from [nodejs.org](https://nodejs.org) and install it. Then run `start.bat` again.
 
 ### "Error installing dependencies"
 - Check your internet connection
